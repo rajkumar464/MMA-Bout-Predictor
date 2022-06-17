@@ -1,4 +1,5 @@
-# UFC Fight Predictor
-UFC Fight Predictor is a web application for predicting the winner of bouts between fighters in the UFC. 
+#MMA Bout Predictor
+An application to determine the outcome of a bout between two UFC fighters.
 
-Test it out [here](https://fight-predictor.herokuapp.com/)
+Currently working on adding fighters from other organizations such as Bellator, PFL, and ONE.
+Also working on including betting odds as training data to influence predictions.
